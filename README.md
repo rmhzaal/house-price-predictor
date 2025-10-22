@@ -159,7 +159,3 @@ curl -X POST "http://localhost:8000/predict" \
 ```
 
 Be sure to replace `http://localhost:8000/predict` with actual endpoint based on where its running. 
-
-
-Happy Learning!  
-— Team **School of DevOps**
